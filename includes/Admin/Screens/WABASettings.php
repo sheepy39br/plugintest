@@ -1,1 +1,0 @@
-<?php namespace WhatsPro\Premium\Admin\Screens; class WABASettings{ static function render(){ echo '<div class="wrap"><h1>WhatsApp API</h1><div class="card">Set credentials, webhook URL, test</div>'; } }

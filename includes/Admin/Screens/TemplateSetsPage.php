@@ -1,1 +1,0 @@
-<?php namespace WhatsPro\Premium\Admin\Screens; class TemplateSetsPage{ static function render(){ echo '<div class="wrap"><h1>Template Sets (A/B)</h1><div class="card">Manage variants, simulate</div>'; } }

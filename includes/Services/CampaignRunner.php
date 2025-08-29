@@ -1,1 +1,0 @@
-<?php namespace WhatsPro\Premium\Services; class CampaignRunner{ static function tick(){ /* process queue stub */ } }

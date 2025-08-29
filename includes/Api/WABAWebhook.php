@@ -1,1 +1,0 @@
-<?php namespace WhatsPro\Premium\Api; class WABAWebhook{ static function register(){ register_rest_route('whatspro/v1','/waba/webhook',['methods'=>['GET','POST'],'callback'=>function($r){return ['ok'=>true];},'permission_callback'=>'__return_true']); } }

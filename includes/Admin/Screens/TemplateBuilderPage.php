@@ -1,1 +1,0 @@
-<?php namespace WhatsPro\Premium\Admin\Screens; class TemplateBuilderPage{ static function render(){ echo '<div class="wrap"><h1>Template Builder</h1><div class="card">UI compile, save, send test</div>'; } }
