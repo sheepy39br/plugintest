@@ -1,0 +1,1 @@
+<?php namespace WhatsPro\Premium\Api; class Campaigns{ static function register(){ register_rest_route('whatspro/v1','/campaigns/ping',['methods'=>'GET','callback'=>function(){return ['ok'=>true];},'permission_callback'=>'__return_true']); } }

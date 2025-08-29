@@ -1,0 +1,1 @@
+<?php namespace WhatsPro\Premium\Admin\Screens; class CampaignsPage{ static function render(){ echo '<div class="wrap"><h1>Campaigns</h1><div class="card">Create campaign, enqueue, status, eligibility preview UI</div>'; } }

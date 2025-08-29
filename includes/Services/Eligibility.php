@@ -1,0 +1,1 @@
+<?php namespace WhatsPro\Premium\Services; class Eligibility{ static function check($c,$opts){return true;} }

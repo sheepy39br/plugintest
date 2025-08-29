@@ -1,0 +1,1 @@
+<?php namespace WhatsPro\Premium\Api; class Templates{ static function register(){ register_rest_route('whatspro/v1','/templates/ping',['methods'=>'GET','callback'=>function(){return ['ok'=>true];},'permission_callback'=>'__return_true']); } }
