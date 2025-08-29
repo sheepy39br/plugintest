@@ -1,1 +1,0 @@
-// JS Campaigns UI placeholder
